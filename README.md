@@ -1,24 +1,29 @@
-# E-learning Landing Pages
+# E-Learning Landing Pages
 
-Welcome to the E-Learning Landing Pages! This project is a showcase of a modern, visually engaging website design. The site was built as part of a portfolio to demonstrate web development and design skills.
+<img width="1348" height="623" alt="image" src="https://github.com/user-attachments/assets/cbe7ba80-68d9-4218-857d-5cbabe146afd" />
+
+Welcome to the **E-Learning Landing Pages**.  
+This project is a modern landing page built with **React** and deployed on **GitHub Pages**.  
+Saya membuat project ini sebagai bagian dari portfolio untuk menunjukkan kemampuan membangun aplikasi front-end dengan pendekatan component-based dan desain yang responsif.
+
+## Live Demo
+[E-Learning Landing Pages](https://hadzikk.github.io/e-learning-landing-pages/)
 
 ## Project Overview
-
-This landing page was created to represent a E-Learnning Landing Pages, focusing on a clean design to engage visitors. 
+Landing page ini dibuat untuk merepresentasikan platform e-learning.  
+Fokus utamanya ada pada desain yang bersih, interaksi sederhana, dan struktur kode yang mudah dipelihara.  
+Saya membangun project ini menggunakan React agar setiap bagian halaman bisa dikembangkan dalam bentuk komponen yang reusable.
 
 ## Features
-
-- **Smooth Scroll:** The navigation bar scrolled smoothly when it's clik.
-- **Modern UI:** A minimalist, user-friendly interface designed to grab attention.
+- **Responsive Layout**: Tampilan yang menyesuaikan baik di desktop maupun perangkat mobile.  
+- **Smooth Scroll Navigation**: Navigasi yang mengalir mulus antar bagian.  
+- **Modern UI**: Desain sederhana namun tetap menarik perhatian.  
+- **React Components**: Menggunakan pendekatan komponen agar mudah dikembangkan dan dirawat.  
+- **GitHub Pages Deployment**: Hosting hasil build React langsung di GitHub Pages.  
 
 ## Tech Stack
-
-- **HTML5:** Structured the content of the page.
-- **CSS3:** Designed and styled the page, including the parallax effect.
-- **JavaScript:** Added interactivity and enhanced user experience.
-- **React JS:** Programming based component, enchance fast building and maintabinability.
-- **GitHub Pages:** Used to host the website live at [Sports Car Landing Pages](https://hadzikk.github.io/sports-car/).
-
-## How to View
-
-To view the website, simply follow this link: [Sports Car Landing Pages](https://hadzikk.github.io/sports-car/).
+- **React JS** – library utama untuk membangun antarmuka  
+- **HTML5 & JSX** – struktur dan markup halaman  
+- **CSS3** – styling dan responsive design  
+- **JavaScript (ES6+)** – logika dan interaktivitas  
+- **GitHub Pages** – untuk hosting hasil build  
