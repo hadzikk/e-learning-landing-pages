@@ -1,29 +1,22 @@
-# E-Learning Landing Pages
+# E-Learning Landing Page
 
-<img width="1348" height="623" alt="image" src="https://github.com/user-attachments/assets/cbe7ba80-68d9-4218-857d-5cbabe146afd" />
+<img width="1347" height="622" alt="image" src="https://github.com/user-attachments/assets/8bcf3a2b-67f5-41fd-ba9a-7a72b1bfa758" />
 
-Welcome to the **E-Learning Landing Pages**.  
-This project is a modern landing page built with **React** and deployed on **GitHub Pages**.  
-Saya membuat project ini sebagai bagian dari portfolio untuk menunjukkan kemampuan membangun aplikasi front-end dengan pendekatan component-based dan desain yang responsif.
+
+## Overview
+This project is a responsive landing page built with **React** and deployed on **GitHub Pages**.  
+It was created as part of a portfolio to demonstrate the ability to design and implement a modern landing page using React.
 
 ## Live Demo
-[E-Learning Landing Pages](https://hadzikk.github.io/e-learning-landing-pages/)
-
-## Project Overview
-Landing page ini dibuat untuk merepresentasikan platform e-learning.  
-Fokus utamanya ada pada desain yang bersih, interaksi sederhana, dan struktur kode yang mudah dipelihara.  
-Saya membangun project ini menggunakan React agar setiap bagian halaman bisa dikembangkan dalam bentuk komponen yang reusable.
-
-## Features
-- **Responsive Layout**: Tampilan yang menyesuaikan baik di desktop maupun perangkat mobile.  
-- **Smooth Scroll Navigation**: Navigasi yang mengalir mulus antar bagian.  
-- **Modern UI**: Desain sederhana namun tetap menarik perhatian.  
-- **React Components**: Menggunakan pendekatan komponen agar mudah dikembangkan dan dirawat.  
-- **GitHub Pages Deployment**: Hosting hasil build React langsung di GitHub Pages.  
+[E-Learning Landing Page](https://hadzikk.github.io/e-learning-landing-pages/)
 
 ## Tech Stack
-- **React JS** – library utama untuk membangun antarmuka  
-- **HTML5 & JSX** – struktur dan markup halaman  
-- **CSS3** – styling dan responsive design  
-- **JavaScript (ES6+)** – logika dan interaktivitas  
-- **GitHub Pages** – untuk hosting hasil build  
+- **React JS** – front-end framework for building the interface  
+- **HTML5 & JSX** – page structure and markup  
+- **CSS3** – styling and responsive layout  
+- **JavaScript (ES6+)** – basic interactivity  
+- **GitHub Pages** – deployment and hosting  
+
+---
+
+This landing page is intended as a portfolio piece to showcase front-end development work with React.
